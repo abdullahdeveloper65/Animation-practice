@@ -1,0 +1,21 @@
+.bar{
+    animation-name: abdullah;
+    animation-delay: 0s;
+    animation-duration: 2s;
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+   
+
+}
+@keyframes abdullah {
+        to{
+            margin-top: 10%;
+        }
+        from{
+            color: blue;
+            text-shadow: 2px 2px 20px;
+        }
+}
